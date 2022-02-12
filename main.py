@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-import PepoBot.music as music
+import music
 
 cogs = [music]
 
